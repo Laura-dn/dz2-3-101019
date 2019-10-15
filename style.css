@@ -1,0 +1,26 @@
+div {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial;
+}
+h2,h3 {
+    text-align: center;
+}
+code {
+    color: #c38d8a;
+    background-color: lightgray;
+    font-size: 1.2em;
+}
+pre {
+    background-color: lightgray; 
+}
+span {
+    color: black;
+}
+.snoska {
+    background-color: lightgray;
+    color: #2495a3;
+}
+#lastString {
+    font-size: 0.8em; 
+}
